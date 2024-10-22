@@ -36,9 +36,9 @@ A powerful analytics and content recommendation tool that provides comprehensive
 3. DistilBart-CNN: Summarizes content descriptions
 4. LLaMA 3.1: Provides contextual content recommendations
 
-![Recommendation 1](./Recommendation 1.png)
+![Recommendation 1](./Recommendation_1.png)
 
-![Recommendation 2](./Recommendation 2.png)
+![Recommendation 2](./Recommendation_2.png)
 
 ## Installation
 
@@ -98,7 +98,7 @@ streamlit run app.py
 
 - Uses LLaMA 3.1 to provide contextual content recommendations
 
-![Recommendation System Pipeline](./Blank diagram.png)
+![Recommendation System Pipeline](./Recommedation_pipeline.png)
 
 ## Further Improvement
 - With more computational resources, more diverse video description could be input to the LLM
