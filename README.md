@@ -45,8 +45,8 @@ A powerful analytics and content recommendation tool that provides comprehensive
 1. Clone the repository:
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/Nuna7/Recommendation-System-LLM.git
+cd Recommendation-System-LLM
 ```
 2. Install required packages:
 
