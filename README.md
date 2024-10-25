@@ -4,41 +4,41 @@ A powerful analytics and content recommendation tool that provides comprehensive
 ## Features
 
 1. Analytics Dashboard
-
-**Video Statistics Overview**
-
-- Total views, likes, and comments across all videos
-- Average engagement metrics per video
-- Growth trends over time
-
-
-**Upload Pattern Analysis**
-
-- Monthly upload distribution
-- Daily upload frequency
-- Day-of-week posting patterns
-- Peak posting times visualization
+   
+    **Video Statistics Overview**
+    
+    - Total views, likes, and comments across all videos
+    - Average engagement metrics per video
+    - Growth trends over time
 
 
-**Performance Metrics**
+    **Upload Pattern Analysis**
+    
+    - Monthly upload distribution
+    - Daily upload frequency
+    - Day-of-week posting patterns
+    - Peak posting times visualization
+    
+    
+    **Performance Metrics**
+    
+    - Video likes distribution
+    - View count distribution
 
-- Video likes distribution
-- View count distribution
-
-![Home Page](./Home page.png)
+    ![Home Page](./Home page.png)
 
 2. AI-Powered Content Recommendations
 
-**The recommendation pipeline leverages multiple models:**
-
-1. Youtube API Integration: Analyzes current user content and retrieve top-performing similar videos based on category and tags.
-2. Representative videos: All-MiniLM-L6-v2 generates content embeddings with K-Means clustering to obtain 10 representative videos (This is perform for computational efficiency).
-3. DistilBart-CNN: Summarizes content descriptions
-4. LLaMA 3.1: Provides contextual content recommendations
-
-![Recommendation 1](./Recommendation_1.png)
-
-![Recommendation 2](./Recommendation_2.png)
+    **The recommendation pipeline leverages multiple models:**
+    
+    1. Youtube API Integration: Analyzes current user content and retrieve top-performing similar videos based on category and tags.
+    2. Representative videos: All-MiniLM-L6-v2 generates content embeddings with K-Means clustering to obtain 10 representative videos (This is perform for computational efficiency).
+    3. DistilBart-CNN: Summarizes content descriptions
+    4. LLaMA 3.1: Provides contextual content recommendations
+    
+    ![Recommendation 1](./Recommendation_1.png)
+    
+    ![Recommendation 2](./Recommendation_2.png)
 
 ## Installation
 
