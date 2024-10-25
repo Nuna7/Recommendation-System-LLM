@@ -1,4 +1,4 @@
-## YouTube Channel Analyzer
+## YouTube Channel Analyzer and Recommendation System
 A powerful analytics and content recommendation tool that provides comprehensive insights into YouTube channels and generates AI-powered content recommendations using LLaMA 3.1.
 
 ## Features
