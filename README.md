@@ -25,7 +25,7 @@ A powerful analytics and content recommendation tool that provides comprehensive
     - Video likes distribution
     - View count distribution
 
-    ![Home Page](./Home page.png)
+    ![Home Page](./Home_page.png)
 
 2. AI-Powered Content Recommendations
 
